@@ -213,22 +213,6 @@ Include appropriate commit messages in your files (2 points)
 
 Deploy the website to GitHub Pages (4 points)
 
-Grading
-This assignment will be evaluated against the requirements and assigned a grade according to the following table:
-
-Grade	Points
-A (+/-)	90+
-B (+/-)	80–89
-C (+/-)	70–79
-D (+/-)	60–69
-F (+/-)	< 60
-Submission
-To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository and the URL of your deployed website for grading.
-
-NOTE
-You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next module.
-
-Comments are disabled for graded submissions in Bootcamp Spot. If you have questions about your feedback, please notify your instructional staff or your Student Success Manager. If you would like to resubmit your work for an additional review, you can use the Resubmit Assignment button to upload new links. You may resubmit up to three times for a total of four submissions.
 
 References
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from https://openweathermap.org/ Links to an external site..
